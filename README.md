@@ -6,8 +6,8 @@
 🌟 Features:
   
 </h1>
-<h2>Hero Details: Instantly retrieve detailed info on any superhero.
-Random Generator: Generate a random hero with unique abilities and a backstory.
+<h2>Hero Details: Instantly retrieve detailed info on any superhero.<br>
+Random Generator: Generate a random hero with unique abilities and a backstory.<br>
 Easy to Use: Simple interface for quick searches and hero creation.</h2>
 
   <b>Check this link to use the Api : https://superheroapi.com/index.html</b>
