@@ -1,7 +1,7 @@
 <h1>SuperHero Search & Generator: Powered by SuperHero API 🦸‍♂️</h1>
 <h2>Dive into the world of superheroes with our tool powered by the SuperHero API. Perfect for developers and fans alike!<h2></h2>
 <h1>
-
+<img src="https://github.com/Vsnikhilmaheswar/SuperHero-API/blob/main/image.png">
 
 🌟 Features:
   
